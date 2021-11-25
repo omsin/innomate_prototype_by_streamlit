@@ -1,1 +1,2 @@
-# test_ec2_with_streamlit
+# Innomate prototype by streamlit
+
